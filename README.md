@@ -11,7 +11,7 @@ nmap -sS -sV -O 192.168.64.2
 - No open services found
 
 ## Screenshot
-![Output](nmap_output.png)
+![Output](output.jpeg)
 
 ## Note
 Scanning performed in a controlled environment
